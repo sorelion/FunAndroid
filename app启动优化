@@ -1,0 +1,5 @@
+Systrace工具使用
+https://www.jianshu.com/p/e73768e66b8d
+线程优先级 子线程最少设置为thread_priority_background
+profile GPU Rendering
+TraceView
